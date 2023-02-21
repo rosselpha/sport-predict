@@ -1,0 +1,21 @@
+this is a test api
+
+
+end points I will need is 
+/
+--the home page where an email need to be sent 
+
+/login
+
+/signup
+
+/picks
+----where the AI will analize the games and return the team that is likely to win 
+----------later it will be /-sports-/picks sports can be Ider soccer football or basketball even baseball. 
+
+/picks/:id
+--------later /-sports-/picks/:id
+
+/admin
+
+--maybe to update picks if I cant get it done with ai
