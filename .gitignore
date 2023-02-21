@@ -4,6 +4,7 @@
 
 .env
 .env.local
+app.yaml
 # Logs
 logs
 *.log
